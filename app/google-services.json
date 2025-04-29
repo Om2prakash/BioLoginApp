@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "843324135964",
+    "firebase_url": "https://biologinapp-default-rtdb.firebaseio.com",
+    "project_id": "biologinapp",
+    "storage_bucket": "biologinapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843324135964:android:b9340c3312dab113b15dd9",
+        "android_client_info": {
+          "package_name": "com.example.biologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhDF9CV_INnJaMLybbyK11VO66V7rM6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843324135964:android:874c0f561f46e923b15dd9",
+        "android_client_info": {
+          "package_name": "com.example.biologinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhDF9CV_INnJaMLybbyK11VO66V7rM6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
